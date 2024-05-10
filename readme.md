@@ -49,7 +49,7 @@ Find X6 cellphones to build the hardware.
 We provide the wide-angle input with the original resolution in wide_1x. Existing super-resolution methods usually assume the resolution of the wide-angle input is smaller than that of the ground-truth image. So, we downsample the original wide-angle input by bicubic interpolation to generate the wide-angle input with smaller resolution in wide_2x, and wide_4x.
 
 # Data
-You can download our dataset from [here](https://drive.google.com/file/d/1058Y97Sw1uOgftvTF4MmfcqLslYsED3_/view?usp=sharing).
+You can download our dataset from [here](https://drive.google.com/file/d/1AkNRBCULgzTM4CTjvLP42pHIVTRqTKLq/view?usp=drive_link).
 
 ![](./img/dataset_show.png)
 ![](./img/dataset_show2.png)
